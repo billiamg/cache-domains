@@ -1,8 +1,6 @@
 pls.patch.station.sony.com
 dl.playstation.net
 *.dl.playstation.net
-gs2.sonycoment.loris-e.llnwd.net
-*.gs2.sonycoment.loris-e.llnwd.net
 gs2-ww-prod.psn.akadns.net
 *.gs2-ww-prod.psn.akadns.net
 gs2.ww.prod.dl.playstation.net.edgesuite.net
