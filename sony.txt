@@ -1,3 +1,6 @@
+gs2.ww.prod.dl.playstation.net
 *.gs2.ww.prod.dl.playstation.net
+gs2.sonycoment.loris-e.llnwd.net
 *.gs2.sonycoment.loris-e.llnwd.net
+gst.prod.dl.playstation.net
 *.gst.prod.dl.playstation.net
